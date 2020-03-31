@@ -1,4 +1,4 @@
-# mall-build-backend
+# Mall Build Backend
 
 ## Notes
 - Build a backend with user authentication that then opens up into unique mall "stores/cards"
